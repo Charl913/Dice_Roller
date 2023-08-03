@@ -1,4 +1,4 @@
-# Dice Roller
+# Dice Roller (Flutter)
 
 The display below shows a dice roller app, which was created through the use of Flutter.
 
