@@ -1,16 +1,5 @@
-# first_app
+# Dice Roller (Flutter)
 
-A new Flutter project.
+![image](https://github.com/Charl913/Dice_Roller/assets/73072328/1d6f9379-f677-4a25-a780-7e6ba34c8ff4)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/Charl913/Dice_Roller/assets/73072328/e17c9502-30b7-439b-a67e-0b2fcd54c1e0)
